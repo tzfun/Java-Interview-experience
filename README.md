@@ -19,3 +19,14 @@
 # 快速导航
 * [计算机网络](src/计算机网络.md)
 * [数据库](src/数据库.md)
+* [JVM 垃圾回收机制（GC）总结](src/JVM 垃圾回收机制（GC）总结.md)
+
+# 关于作者
+
+个人首页：[www.beifengtz.com](http://www.beifengtz.com)
+
+个人博客：[blog.beifengtz.com](http://blog.beifengtz.com)
+
+个人公众号：**北风IT之路**
+
+<img src="photo/公众号.png" width="200"/>
